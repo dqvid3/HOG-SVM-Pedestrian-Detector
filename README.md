@@ -52,7 +52,7 @@ Below are some screenshots showing the performance of our model on the test set,
 
 - **Detection Failure**: 
   ![Detection Failure Example](results/failure.png)
-  In this case, the model missed almost every pedestrian.
+  In this case, the model missed every pedestrian.
 
 
 ## Metrics Results
