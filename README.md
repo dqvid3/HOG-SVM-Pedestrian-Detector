@@ -61,7 +61,7 @@ The results can be found after running the `report_finale.py` script. The script
 
 | Modello        | TP   | FP   | FN    | Precision | Recall  | F1-Score |
 | -------------- | ---- | ---- | ----- | --------- | ------- | -------- |
-| Nostro Modello | 4    | 14   | 43    | 0.2222    | 0.0851  | 0.1231   |
+| Our Model | 4    | 14   | 43    | 0.2222    | 0.0851  | 0.1231   |
 | OpenCV         | 1124 | 4600 | 16709 | 0.3697    | 0.1590  | 0.2224   |
 
 Additionally, in the `plots` directory, there is a `.png` file that shows the F1-score variation with respect to the SVM hyperparameter C from the training process.
