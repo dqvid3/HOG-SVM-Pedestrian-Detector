@@ -6,7 +6,7 @@ The system implements a pedestrian detection algorithm using Histogram of Orient
 
 ## Dataset and Feature Extraction
 
-This project uses the [WiderPerson](http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson) dataset for positive samples (pedestrians). Additionally, it utilizes images from the `negative` folder to generate negative samples (non-pedestrians). For each positive sample, 5 negative samples are generated, creating a balanced dataset for training, testing, and validation.
+This project uses the [WiderPerson](http://www.cbsr.ia.ac.cn/users/sfzhang/WiderPerson) dataset for positive samples (pedestrians). Additionally, it utilizes images from the `negative` folder to generate negative samples (non-pedestrians). For each positive sample, 5 negative samples are generated, creating a balanced dataset for training, validation and testing.
 
 The feature extraction process combines data from both the WiderPerson dataset and the negative samples to create comprehensive HOG features for the model.
 
