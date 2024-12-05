@@ -66,7 +66,7 @@ The results can be found after running the `report_finale.py` script. The script
 
 Additionally, in the `plots` directory, there is a `.png` file that shows the F1-score variation with respect to the SVM hyperparameter C from the training process.
 
-Here is the plot we got:
+Here is the plot that we got:
 
 ![F1-Score vs C](plots/prestazioni.png)
 
